@@ -1,0 +1,7 @@
+C:\Users\srivig\source\repos\C#\BaseClassMethod\BaseClassMethod\bin\Debug\BaseClassMethod.exe.config
+C:\Users\srivig\source\repos\C#\BaseClassMethod\BaseClassMethod\bin\Debug\BaseClassMethod.exe
+C:\Users\srivig\source\repos\C#\BaseClassMethod\BaseClassMethod\bin\Debug\BaseClassMethod.pdb
+C:\Users\srivig\source\repos\C#\BaseClassMethod\BaseClassMethod\obj\Debug\BaseClassMethod.csprojAssemblyReference.cache
+C:\Users\srivig\source\repos\C#\BaseClassMethod\BaseClassMethod\obj\Debug\BaseClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\srivig\source\repos\C#\BaseClassMethod\BaseClassMethod\obj\Debug\BaseClassMethod.exe
+C:\Users\srivig\source\repos\C#\BaseClassMethod\BaseClassMethod\obj\Debug\BaseClassMethod.pdb
